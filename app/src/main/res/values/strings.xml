@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dialogo Alerta</string>
+    <string name="alerta">Alerta</string>
+    <string name="texto_alerta">Toca para mostrar la alerta</string>
+    <string name="alerta_title">Alerta</string>
+    <string name="alerta_mensaje">Selecciona Aceptar para continuar o Cancelar para parar</string>
+    <string name="alerta_boton_aceptar">Aceptar</string>
+    <string name="alerta_boton_cancelar">Cancelar</string>
+    <string name="seleccionaFecha">Selecciona una fecha</string>
+    <string name="fecha">Fecha</string>
+    <string name="fecha_formato">Fecha: </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="selecciona_hora">Selecciona hora</string>
+    <string name="hora">Hora</string>
+
+</resources>
